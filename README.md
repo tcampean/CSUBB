@@ -80,27 +80,23 @@
   <li>:open_file_folder: <b>Semester 4</b>
     <ul>
       <li>
-        <a href="">
+        <a href="https://github.com/tcampean/Database-Management-Systems">
           Database Management Systems
 	</a>
       </li>
       <li>
-        <a href="">
           Software Engineering
-        </a>
       </li>
       <li>
-        <a href="">
+        <a href="https://github.com/tcampean/Web-Programming">
           Web Programming
 	</a>
       </li>
       <li>
-        <a href="">
           Systems for Design and Implementation
-	</a>
       </li>
       <li>
-        <a href="">
+        <a href="https://github.com/tcampean/Artificial-Intelligence">
           Artificial Intelligence
 	</a>
       </li>
