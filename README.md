@@ -104,6 +104,36 @@
       </li>
     </ul>
   </li>
+<li>:open_file_folder: <b>Semester 5</b>
+    <ul>
+      <li>
+        <a href="https://github.com/tcampean/Virtual-Reality">
+          Virtual Reality
+	</a>
+      </li>
+	     <li>
+        <a href="https://github.com/tcampean/Robotic-Process-Automation">
+          Robotic Process Automation
+	</a>
+      </li>
+	     <li>
+        <a href="https://github.com/tcampean/Parallel-and-Distributed-Programming">
+         Parallel and Distributed Programming
+	</a>
+      </li>
+	    <li>
+        <a href="https://github.com/tcampean/Formal-Languages-and-Compiler-Design">
+        Formal Languages and Compiler Design
+	</a>
+      </li>
+	    <li>
+        <a href= "https://github.com/tcampean/Colective-Project">
+        Colective Project
+	</a>
+      </li>
+	
+</ul>
+</li>
 <br>
   <a href="http://www.cs.ubbcluj.ro">
     <img src="http://www.chem.ubbcluj.ro/romana/conferinte/MEEMB/archive/pictures/ubb.gif" />
